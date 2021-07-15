@@ -1,0 +1,8 @@
+
+Extract This file in   "xampp\htdocs\" 
+
+Import the database sqlfile   "C:\xampp\xampp\htdocs\Movie_Tickes_Reservation\database"
+
+Open the project for admin   "http://localhost/Movie_Tickes_Reservation/login.php"
+
+Now you can access fully this project.
