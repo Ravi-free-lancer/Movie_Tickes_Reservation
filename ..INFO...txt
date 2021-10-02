@@ -1,6 +1,8 @@
 
 Extract This file in   "xampp\htdocs\" 
 
+login username: Ravi password : 123
+
 Import the database sqlfile   "C:\xampp\xampp\htdocs\Movie_Tickes_Reservation\database"
 
 Open the project for admin   "http://localhost/Movie_Tickes_Reservation/login.php"
